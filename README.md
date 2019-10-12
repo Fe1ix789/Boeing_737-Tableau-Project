@@ -5,6 +5,10 @@ The Boeing 737, albeit recent controversies, is regarded as the most successful 
 
 ----
 
+## Assignment Details ##
+
+Create a compelling use case for a Data Visualization. Topic and Data can be chosen freely but the story has to be told in a compelling way visualizing the chosen datasets. 
+
 ## Tableau Visualization ##
 
 Link to an interactive version of the Project on Tableau Public.
